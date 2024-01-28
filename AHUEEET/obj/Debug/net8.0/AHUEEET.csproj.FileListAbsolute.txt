@@ -1,0 +1,14 @@
+C:\Users\mptr0\source\repos\AHUEEET\AHUEEET\bin\Debug\net8.0\AHUEEET.exe
+C:\Users\mptr0\source\repos\AHUEEET\AHUEEET\bin\Debug\net8.0\AHUEEET.deps.json
+C:\Users\mptr0\source\repos\AHUEEET\AHUEEET\bin\Debug\net8.0\AHUEEET.runtimeconfig.json
+C:\Users\mptr0\source\repos\AHUEEET\AHUEEET\bin\Debug\net8.0\AHUEEET.dll
+C:\Users\mptr0\source\repos\AHUEEET\AHUEEET\bin\Debug\net8.0\AHUEEET.pdb
+C:\Users\mptr0\source\repos\AHUEEET\AHUEEET\obj\Debug\net8.0\AHUEEET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mptr0\source\repos\AHUEEET\AHUEEET\obj\Debug\net8.0\AHUEEET.AssemblyInfoInputs.cache
+C:\Users\mptr0\source\repos\AHUEEET\AHUEEET\obj\Debug\net8.0\AHUEEET.AssemblyInfo.cs
+C:\Users\mptr0\source\repos\AHUEEET\AHUEEET\obj\Debug\net8.0\AHUEEET.csproj.CoreCompileInputs.cache
+C:\Users\mptr0\source\repos\AHUEEET\AHUEEET\obj\Debug\net8.0\AHUEEET.dll
+C:\Users\mptr0\source\repos\AHUEEET\AHUEEET\obj\Debug\net8.0\refint\AHUEEET.dll
+C:\Users\mptr0\source\repos\AHUEEET\AHUEEET\obj\Debug\net8.0\AHUEEET.pdb
+C:\Users\mptr0\source\repos\AHUEEET\AHUEEET\obj\Debug\net8.0\AHUEEET.genruntimeconfig.cache
+C:\Users\mptr0\source\repos\AHUEEET\AHUEEET\obj\Debug\net8.0\ref\AHUEEET.dll
